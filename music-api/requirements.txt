@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+yt-dlp
+httpx
+python-telegram-bot>=21
+psycopg[binary]>=3.1
